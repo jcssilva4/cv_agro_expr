@@ -1,6 +1,6 @@
 Objetivo: Desenvolver uma solução para detectar e quantificar características em imagens de plantas
 
-Dataset sugerido: abdallahalidev/plantvillage-dataset — Kaggle
+Dataset utilizado: abdallahalidev/plantvillage-dataset — Kaggle
 
 este repo possui dois notebooks
 
