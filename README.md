@@ -31,3 +31,6 @@ O notebook notebooks/02_segmentation.ipynb aborda o problema da seguinte forma:
   - Função de perda (Loss): Combinação de Dice + Cross-Entropy para lidar com o o desbalanceamento severo de classes no nível de pixel
 
 Entregável: Porcentagem de severidade da doença por imagem (área afetada / área total da planta)
+
+
+obs.: lembrar de cadastrar o valor do secret HF_TOKEN no colab
